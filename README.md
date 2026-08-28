@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
