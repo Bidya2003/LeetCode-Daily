@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,15 +103,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 ## Eulerian Path
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 ## Semi-Eulerian Graph
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
+| [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 ## Eulerian Graph
 |  |
 | ------- |
