@@ -133,5 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
