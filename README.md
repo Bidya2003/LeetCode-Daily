@@ -153,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
