@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -159,8 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0013-roman-to-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
