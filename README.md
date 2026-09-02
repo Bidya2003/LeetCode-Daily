@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Geometry
 |  |
 | ------- |
