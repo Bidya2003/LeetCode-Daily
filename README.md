@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0066-plus-one) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
