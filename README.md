@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0062-unique-paths) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
