@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
