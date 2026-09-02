@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
