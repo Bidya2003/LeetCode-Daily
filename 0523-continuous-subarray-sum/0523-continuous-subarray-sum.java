@@ -37,35 +37,26 @@ prefixSum[i] % k == prefixSum[j] % k
 
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-
         if(nums.length < 2)
             return false;
+        
+        Map<Integer, Integer> map = new HashMap<>();
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        // remainder 0 যেন index -1 থেকে এসেছে ধরা হয়
-        map.put(0, -1);
+        map.put(0,-1);
 
         int total = 0;
-
-        for(int i = 0; i < nums.length; i++) {
-
+        for(int i=0;i<nums.length;i++){
             total += nums[i];
-
             int rem = total % k;
-
-            if(map.containsKey(rem)) {
-
-                // অন্তত 2টা element থাকতে হবে
-                if(i - map.get(rem) >= 2)
+            if(map.containsKey(rem)){
+                if(i - map.get(rem) >= 2){
                     return true;
+                }
             }
-            else {
-                // প্রথম index-টাই রাখতে হবে
-                map.put(rem, i);
+            else{
+                map.put(rem,i);
             }
         }
-
         return false;
     }
 }
