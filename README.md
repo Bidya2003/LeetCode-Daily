@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0168-excel-sheet-column-title) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
