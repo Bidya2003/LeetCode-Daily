@@ -1,14 +1,22 @@
 class Solution {
     public int countGroups(int[] position, int[] speed, int distance) {
-        int res = 0, n = speed.length, p2 = Integer.MAX_VALUE, s2 = p2;
-        for (int i = n - 1; i >= 0; i--) {
-            int p = position[i], s = speed[i];
-            if (p2 - p > distance && s <= s2) {
-                res += 1;
-                s2 = s;
+        int pos1 = Integer.MAX_VALUE;
+        int speed1 = Integer.MAX_VALUE;
+
+        int len = speed.length;
+        int count = 0;
+
+        for(int i=len-1;i>=0;i--){
+            int pos2 = position[i];
+            int speed2 = speed[i];
+
+            if(pos1-pos2 > distance && speed2<=speed1){
+                count++;
+                speed1 = speed2;
             }
-            p2 = p;
+            pos1 = pos2;
         }
-        return res;
+
+        return count;
     }
 }
