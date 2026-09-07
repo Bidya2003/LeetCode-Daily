@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0171-excel-sheet-column-number) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
+| [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
 | ------- |
