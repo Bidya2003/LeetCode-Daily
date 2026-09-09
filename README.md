@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Breadth-First Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
@@ -69,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -127,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 ## Memoization
 |  |
 | ------- |
