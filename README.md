@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Topological Sort
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Directed Acyclic Graph
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
