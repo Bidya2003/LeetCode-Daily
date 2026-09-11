@@ -20,14 +20,16 @@ class Solution {
 
         Queue<TreeNode> makingGraph = new LinkedList<>();
         Queue<TreeNode> trackInfected = new LinkedList<>();
+        TreeNode findStart = null;
         
         makingGraph.add(root);
 
         while(!makingGraph.isEmpty()){
             TreeNode front = makingGraph.remove();
             if(front.val == start){
-                trackInfected.add(front);
-                infected.add(front);
+                findStart = front;
+                // trackInfected.add(front);
+                // infected.add(front);
             }
 
             if(front.left != null){
@@ -40,27 +42,30 @@ class Solution {
             }
         }
 
+        makingGraph.add(findStart);
+        infected.add(findStart);
+
         int time = 0;
-        while(!trackInfected.isEmpty()){
-            int size = trackInfected.size();
+        while(!makingGraph.isEmpty()){
+            int size = makingGraph.size();
 
             for(int i=0;i<size;i++){
-                TreeNode front = trackInfected.remove();
+                TreeNode front = makingGraph.remove();
 
                 if(parents.containsKey(front)){
                     TreeNode parent = parents.get(front);
                     if(!infected.contains(parent)){
-                        trackInfected.add(parent);
+                        makingGraph.add(parent);
                         infected.add(parent);
                     }
                 }
 
                 if(front.left != null && !infected.contains(front.left)){
-                    trackInfected.add(front.left);
+                    makingGraph.add(front.left);
                     infected.add(front.left);
                 }
                 if(front.right != null && !infected.contains(front.right)){
-                    trackInfected.add(front.right);
+                    makingGraph.add(front.right);
                     infected.add(front.right);
                 }
             }
