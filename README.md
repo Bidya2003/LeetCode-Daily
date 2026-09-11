@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
