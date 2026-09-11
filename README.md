@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1462-course-schedule-iv) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -397,5 +400,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2049-count-nodes-with-the-highest-score) |
 <!---LeetCode Topics End-->
