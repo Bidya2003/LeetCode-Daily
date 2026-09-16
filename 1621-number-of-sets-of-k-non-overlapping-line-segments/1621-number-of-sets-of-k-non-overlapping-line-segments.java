@@ -1,23 +1,36 @@
 class Solution {
-
-    private static final int MOD = 1000000007;
+    long[] arr;
 
     public int numberOfSets(int n, int k) {
-        int[] dp = new int[n];
-        int[] prefixSums = new int[n + 1];
-        for (int j = 0; j < n; j++) {
-            dp[j] = 1;
-            prefixSums[j + 1] = (prefixSums[j] + dp[j]) % MOD;
+
+        arr = new long[n];
+
+        // 0 segments -> 1 way
+        for(int i = 0; i < n; i++){
+            arr[i] = 1;
         }
-        for (int i = 1; i <= k; i++) {
-            dp[0] = 0;
-            for (int j = 1; j < n; j++) {
-                dp[j] = (dp[j - 1] + prefixSums[j]) % MOD;
+
+        int line = 1;
+
+        while(line <= k){
+
+            long[] temp = new long[n];
+
+            temp[0] = 0;
+
+            long sum = 0;
+
+            for(int i = 1; i < n; i++){
+
+                sum = (sum + arr[i - 1]) % 1000000007;
+
+                temp[i] = (temp[i - 1] + sum) % 1000000007;
             }
-            for (int j = 0; j < n; j++) {
-                prefixSums[j + 1] = (prefixSums[j] + dp[j]) % MOD;
-            }
+
+            arr = temp;
+            line++;
         }
-        return dp[n - 1];
+
+        return (int)arr[n - 1];
     }
 }
