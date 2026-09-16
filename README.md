@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0069-sqrtx) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
