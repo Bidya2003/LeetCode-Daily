@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0189-rotate-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
