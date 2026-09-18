@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
 | [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2054-two-best-non-overlapping-events) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0963-minimum-area-rectangle-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
