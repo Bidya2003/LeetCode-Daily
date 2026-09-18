@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4024-nearest-available-drone](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4024-nearest-available-drone) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3904-smallest-stable-index-ii) |
+| [4024-nearest-available-drone](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4024-nearest-available-drone) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Dynamic Programming
 |  |
