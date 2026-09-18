@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0836-rectangle-overlap) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0963-minimum-area-rectangle-ii) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
