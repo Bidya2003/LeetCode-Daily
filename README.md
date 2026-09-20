@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3996-even-number-of-knight-moves](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3996-even-number-of-knight-moves) |
