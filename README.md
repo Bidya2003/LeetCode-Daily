@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4024-nearest-available-drone) |
 ## Array
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3904-smallest-stable-index-ii) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4024-nearest-available-drone) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Primality Test
 |  |
 | ------- |
