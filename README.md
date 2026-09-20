@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3978-unique-middle-element) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4020-elevator-requests-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Bit Manipulation
