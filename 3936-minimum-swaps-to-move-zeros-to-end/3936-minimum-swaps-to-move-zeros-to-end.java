@@ -11,8 +11,6 @@ class Solution {
             else if(nums[left] != 0)
                 left++;
             else if(nums[right] != 0 && nums[left] == 0){
-                nums[left] = nums[right];
-                nums[right] = 0;
                 count++;
                 left++;
                 right--;
