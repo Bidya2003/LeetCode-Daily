@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3838-weighted-word-mapping](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3861-minimum-capacity-box) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3842-toggle-light-bulbs) |
 | [3921-score-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3925-concatenate-array-with-reverse) |
