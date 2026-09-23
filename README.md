@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3697-compute-decimal-representation) |
