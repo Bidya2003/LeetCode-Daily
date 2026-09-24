@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3637-trionic-array-i) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3668-restore-finishing-order) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Primality Test
 |  |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0169-majority-element) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3852-smallest-pair-with-different-frequencies) |
