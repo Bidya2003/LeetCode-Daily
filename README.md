@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3663-find-the-least-frequent-digit](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3663-find-the-least-frequent-digit) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3745-maximize-expression-of-three-elements) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3745-maximize-expression-of-three-elements) |
 ## Linked List
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Newton's Method
 |  |
 | ------- |
