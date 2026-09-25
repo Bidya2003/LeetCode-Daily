@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3524-find-x-value-of-array-i) |
