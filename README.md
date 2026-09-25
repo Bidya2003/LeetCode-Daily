@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
+| [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Newton's Method
 |  |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 ## Brainteaser
 |  |
@@ -698,5 +702,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
