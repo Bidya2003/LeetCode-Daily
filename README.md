@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
