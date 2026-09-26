@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
