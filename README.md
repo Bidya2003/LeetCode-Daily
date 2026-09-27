@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3364-minimum-positive-sum-subarray) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
