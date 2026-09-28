@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3200-maximum-height-of-a-triangle) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0169-majority-element) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3238-find-the-number-of-winning-players) |
 | [3467-transform-array-by-parity](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
