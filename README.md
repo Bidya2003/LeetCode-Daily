@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3200-maximum-height-of-a-triangle) |
 | [3206-alternating-groups-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
