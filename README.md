@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3127-make-a-square-with-the-same-color) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
