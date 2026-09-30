@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -819,4 +821,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
