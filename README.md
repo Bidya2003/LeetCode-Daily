@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
