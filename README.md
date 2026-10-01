@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2974-minimum-number-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2974-minimum-number-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3024-type-of-triangle) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2054-two-best-non-overlapping-events) |
+| [2974-minimum-number-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
+| [2974-minimum-number-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
