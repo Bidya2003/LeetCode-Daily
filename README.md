@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
+| [2951-find-the-peaks](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3127-make-a-square-with-the-same-color) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2951-find-the-peaks](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2965-find-missing-and-repeated-values) |
