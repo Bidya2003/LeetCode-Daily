@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2923-find-champion-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2942-find-words-containing-character) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2965-find-missing-and-repeated-values) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 ## Brainteaser
@@ -894,4 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3024-type-of-triangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
