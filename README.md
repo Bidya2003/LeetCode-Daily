@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
