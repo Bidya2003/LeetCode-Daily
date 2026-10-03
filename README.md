@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2848-points-that-intersect-with-cars](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2848-points-that-intersect-with-cars) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2848-points-that-intersect-with-cars](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2848-points-that-intersect-with-cars](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3354-make-array-elements-equal-to-zero) |
