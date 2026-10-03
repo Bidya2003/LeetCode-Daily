@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2899-last-visited-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2899-last-visited-integers) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
