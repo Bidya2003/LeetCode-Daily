@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2815-max-pair-sum-in-an-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2815-max-pair-sum-in-an-array) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2848-points-that-intersect-with-cars](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2848-points-that-intersect-with-cars) |
