@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2848-points-that-intersect-with-cars](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2848-points-that-intersect-with-cars) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
