@@ -1,0 +1,22 @@
+class Solution {
+    public int sumIndicesWithKSetBits(List<Integer> nums, int k) {
+        int sum = 0;
+
+        for(int i=0; i<nums.size(); i++){
+            int n = i;
+            int one = 0;
+
+            while(n != 0){
+                if(n%2 == 1)
+                    one++;
+
+                n = n/2;
+            }
+
+            if(one == k)
+                sum += nums.get(i);
+        }
+
+        return sum;
+    }
+}
