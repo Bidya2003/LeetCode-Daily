@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2765-longest-alternating-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3024-type-of-triangle) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2815-max-pair-sum-in-an-array) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
+| [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Bidya2003/LeetCode-Daily/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -881,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0169-majority-element) |
+| [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
