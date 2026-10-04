@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2678-number-of-senior-citizens](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2678-number-of-senior-citizens](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2678-number-of-senior-citizens) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2706-buy-two-chocolates](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2706-buy-two-chocolates) |
 | [2717-semi-ordered-permutation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2717-semi-ordered-permutation) |
