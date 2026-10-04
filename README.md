@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2765-longest-alternating-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3206-alternating-groups-i) |
