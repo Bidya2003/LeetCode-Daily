@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
+| [2765-longest-alternating-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2765-longest-alternating-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2788-split-strings-by-separator) |
