@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2717-semi-ordered-permutation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2717-semi-ordered-permutation) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
+| [2717-semi-ordered-permutation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2717-semi-ordered-permutation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2899-last-visited-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
