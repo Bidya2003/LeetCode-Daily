@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
+| [2670-find-the-distinct-difference-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2670-find-the-distinct-difference-array) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2678-number-of-senior-citizens](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2678-number-of-senior-citizens) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2682-find-the-losers-of-the-circular-game) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2670-find-the-distinct-difference-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2670-find-the-distinct-difference-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
