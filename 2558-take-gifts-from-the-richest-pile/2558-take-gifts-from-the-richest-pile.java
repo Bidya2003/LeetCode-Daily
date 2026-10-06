@@ -1,15 +1,20 @@
 class Solution {
     public long pickGifts(int[] gifts, int k) {
-        long ans = 0;
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a,b) -> Integer.compare(b,a));
+        for(int i : gifts){
+            pq.add(i);
+        }
 
         while(k>0){
-            Arrays.sort(gifts);
-            gifts[gifts.length-1] = (int)Math.sqrt(gifts[gifts.length-1]);
+            int front = (int)Math.sqrt(pq.remove());
+            pq.add(front);
             k--;
         }
 
-        for(int i : gifts){
-            ans += (long)i;
+        long ans = 0;
+
+        while(!pq.isEmpty()){
+            ans += (long)pq.remove();
         }
         return ans;
     }
