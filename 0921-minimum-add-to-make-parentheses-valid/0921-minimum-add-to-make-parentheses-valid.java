@@ -1,14 +1,14 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Integer> stack = new Stack<>();
+        int open = 0;
         int count = 0;
         
         for(int i=0; i<s.length(); i++){
             if(s.charAt(i) == '(')
-                stack.add(i);
+                open++;
             else{
-                if(!stack.isEmpty()){
-                    stack.pop();
+                if(open != 0){
+                    open--;
                 }
                 else{
                     count++;
@@ -16,6 +16,6 @@ class Solution {
             }
         }
 
-        return count + stack.size();
+        return count + open;
     }
 }
