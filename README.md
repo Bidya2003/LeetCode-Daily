@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2460-apply-operations-to-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
+| [2460-apply-operations-to-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
