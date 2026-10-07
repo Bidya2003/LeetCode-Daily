@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2678-number-of-senior-citizens) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -958,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0169-majority-element) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
