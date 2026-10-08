@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2418-sort-the-people) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2418-sort-the-people) |
