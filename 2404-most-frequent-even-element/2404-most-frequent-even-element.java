@@ -3,6 +3,8 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
 
         for(int i : nums){
+            if(i % 2 != 0)
+                continue;
             map.put(i, map.getOrDefault(i, 0) + 1);
         }
 
@@ -10,8 +12,6 @@ class Solution {
         int ans = Integer.MIN_VALUE;
 
         for(int key : map.keySet()){
-            if(key % 2 != 0)
-                continue;
             if(max < map.get(key)){
                 max = map.get(key);
                 ans = key;
