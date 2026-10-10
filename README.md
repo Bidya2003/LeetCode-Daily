@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2399-check-distances-between-same-letters) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0169-majority-element) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
