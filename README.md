@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0283-move-zeroes) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2097-valid-arrangement-of-pairs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
