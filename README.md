@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2765-longest-alternating-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2765-longest-alternating-subarray) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2054-two-best-non-overlapping-events) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0963-minimum-area-rectangle-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -873,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Geometry
 |  |
