@@ -58,18 +58,18 @@ class Solution {
             if(i > sum)
                 continue;
 
-            int remainingSum = sum - i;
-            int remainingDigits = num - 1;
+            // int remainingSum = sum - i;
+            // int remainingDigits = num - 1;
 
-            if(remainingSum > 9 * remainingDigits)
-                continue;
+            // if(remainingSum > 9 * remainingDigits)
+            //     continue;
 
             // choose
             curr.append(i);
 
             checkMaxSumOfSquares(
                 num - 1,
-                remainingSum,
+                sum - i,
                 curr
             );
 
