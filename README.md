@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
