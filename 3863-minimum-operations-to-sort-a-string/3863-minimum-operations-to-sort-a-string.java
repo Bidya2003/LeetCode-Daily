@@ -9,6 +9,10 @@ class Solution {
             return;
         }
 
+        if(steps >= count) {
+            return;
+        }
+
         String first = s.substring(0,s.length()-1);
         target = first.toCharArray();
         Arrays.sort(target);
