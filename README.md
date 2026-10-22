@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3978-unique-middle-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3996-even-number-of-knight-moves](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3996-even-number-of-knight-moves) |
