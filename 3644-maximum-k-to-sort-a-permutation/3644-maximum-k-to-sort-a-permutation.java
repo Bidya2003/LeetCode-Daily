@@ -1,0 +1,21 @@
+class Solution {
+    public int sortPermutation(int[] nums) {
+        int ans = -1;
+
+        for(int i = 0; i < nums.length; i++) {
+
+            if(i != nums[i]) {
+
+                if(ans == -1) {
+                    ans = nums[i];
+                }
+                else {
+                    ans = ans & nums[i];
+                }
+            }
+        }
+
+        // Already sorted হলে
+        return (ans == -1) ? 0 : ans;
+    }
+}
