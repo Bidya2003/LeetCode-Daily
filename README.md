@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2399-check-distances-between-same-letters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2399-check-distances-between-same-letters) |
+| [2409-count-days-spent-together](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2451-odd-string-difference) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2409-count-days-spent-together](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2549-count-distinct-numbers-on-board) |
