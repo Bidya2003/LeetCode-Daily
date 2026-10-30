@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3921-score-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3921-score-validator) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1178,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
