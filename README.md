@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2717-semi-ordered-permutation) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2765-longest-alternating-subarray](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2765-longest-alternating-subarray) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2670-find-the-distinct-difference-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2815-max-pair-sum-in-an-array) |
@@ -1099,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
