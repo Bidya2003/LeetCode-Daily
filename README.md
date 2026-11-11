@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3452-sum-of-good-numbers) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3477-fruits-into-baskets-ii) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3643-flip-square-submatrix-vertically) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3606-coupon-code-validator) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
