@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2603-collect-coins-in-a-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2603-collect-coins-in-a-tree) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2733-neither-minimum-nor-maximum) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2706-buy-two-chocolates) |
@@ -950,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2540-minimum-common-value) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
