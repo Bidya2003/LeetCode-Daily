@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2409-count-days-spent-together](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
