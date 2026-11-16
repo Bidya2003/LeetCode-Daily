@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2418-sort-the-people) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2549-count-distinct-numbers-on-board) |
