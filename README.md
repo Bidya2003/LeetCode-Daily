@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1278-palindrome-partitioning-iii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1278-palindrome-partitioning-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1278-palindrome-partitioning-iii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
