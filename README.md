@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0678-valid-parenthesis-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0753-cracking-the-safe](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0753-cracking-the-safe) |
+| [0833-find-and-replace-in-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0833-find-and-replace-in-string) |
 | [0856-score-of-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0940-distinct-subsequences-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
+| [0833-find-and-replace-in-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0851-loud-and-rich) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0833-find-and-replace-in-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0833-find-and-replace-in-string) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
 | [1096-brace-expansion-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
+| [0833-find-and-replace-in-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0833-find-and-replace-in-string) |
 | [0939-minimum-area-rectangle](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0963-minimum-area-rectangle-ii) |
 | [1096-brace-expansion-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
