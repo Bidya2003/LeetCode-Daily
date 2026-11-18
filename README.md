@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1278-palindrome-partitioning-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1745-palindrome-partitioning-iv) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1745-palindrome-partitioning-iv) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2008-maximum-earnings-from-taxi) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0268-missing-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2506-count-pairs-of-similar-strings) |
@@ -1049,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
