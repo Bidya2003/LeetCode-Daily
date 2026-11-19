@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
