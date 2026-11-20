@@ -1,41 +1,45 @@
-// class Solution {
-//     int[][] dp;
+/*
+//Memory Limit Exceeded (661 / 668 testcases passed)
 
-//     public int checkAllElements(int[] nums, int idx, int last) {
-//         if(idx >= nums.length)
-//             return 0;
+class Solution {
+    int[][] dp;
 
-//         if(dp[idx][last+1] != -1){
-//             return dp[idx][last+1];
-//         }
+    public int checkAllElements(int[] nums, int idx, int last) {
+        if(idx >= nums.length)
+            return 0;
 
-//         int skip = checkAllElements(nums, idx+1, last);
+        if(dp[idx][last+1] != -1){
+            return dp[idx][last+1];
+        }
 
-//         int takeSame = 0;
-//         int takeIncre = 0;
+        int skip = checkAllElements(nums, idx+1, last);
 
-//         if(last == -1 || nums[idx] == last + 1) {
-//             takeSame = 1 + checkAllElements(nums, idx+1, nums[idx]);
-//         }
+        int takeSame = 0;
+        int takeIncre = 0;
 
-//         if(last == -1 || nums[idx] + 1 == last + 1) {
-//             takeIncre = 1 + checkAllElements(nums, idx+1, nums[idx]+1);
-//         }
+        if(last == -1 || nums[idx] == last + 1) {
+            takeSame = 1 + checkAllElements(nums, idx+1, nums[idx]);
+        }
 
-//         return dp[idx][last+1] = Math.max(skip, Math.max(takeSame, takeIncre));
-//     }
+        if(last == -1 || nums[idx] + 1 == last + 1) {
+            takeIncre = 1 + checkAllElements(nums, idx+1, nums[idx]+1);
+        }
 
-//     public int maxSelectedElements(int[] nums) {
-//         Arrays.sort(nums);
+        return dp[idx][last+1] = Math.max(skip, Math.max(takeSame, takeIncre));
+    }
 
-//         dp = new int[nums.length][nums[nums.length-1] + 3];
-//         for(int i=0; i<nums.length; i++){
-//             Arrays.fill(dp[i], -1);
-//         }
+    public int maxSelectedElements(int[] nums) {
+        Arrays.sort(nums);
 
-//         return checkAllElements(nums, 0, -1);
-//     }
-// }
+        dp = new int[nums.length][nums[nums.length-1] + 3];
+        for(int i=0; i<nums.length; i++){
+            Arrays.fill(dp[i], -1);
+        }
+
+        return checkAllElements(nums, 0, -1);
+    }
+}
+*/
 
 
 
