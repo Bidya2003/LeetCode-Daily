@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0826-most-profit-assigning-work) |
 | [0986-interval-list-intersections](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1754-largest-merge-of-two-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1754-largest-merge-of-two-strings) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1745-palindrome-partitioning-iv) |
+| [1754-largest-merge-of-two-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1754-largest-merge-of-two-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1754-largest-merge-of-two-strings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1754-largest-merge-of-two-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
