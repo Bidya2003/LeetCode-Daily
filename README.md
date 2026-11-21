@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Bidya2003/LeetCode-Daily/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bidya2003/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2404-most-frequent-even-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2465-number-of-distinct-averages) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Bidya2003/LeetCode-Daily/tree/master/2576-find-the-maximum-number-of-marked-indices) |
